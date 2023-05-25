@@ -1,5 +1,6 @@
 <h1>Hi, I'm Johnny! 🚀<h1>
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="">
+ <img src="[https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif](https://media.giphy.com/media/iBANmdIlMNJVC/giphy.gif)" alt="">
  
   
 <!-- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=chubbychang914&theme=discord) -->
