@@ -1,6 +1,9 @@
 <h1>Hi, I'm Johnny! 🚀<h1>
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="">
   
+  
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=codemaker2015&theme=discord)
+  
 ### Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
