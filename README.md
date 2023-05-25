@@ -2,7 +2,8 @@
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="">
  
   
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=chubbychang914&theme=discord)
+<!-- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=chubbychang914&theme=discord) -->
+ ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=theme)
 ## About Me
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
   Right now I'm learning Typescipt and trying to upgrade my tech stack!
