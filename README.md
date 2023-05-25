@@ -1,8 +1,16 @@
 <h1>Hi, I'm Johnny! 🚀<h1>
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="">
-  
+ 
   
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=chubbychang914&theme=discord)
+## About Me
+Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
+  Right now I'm learning Typescipt and trying to upgrade my tech stack!
+## Contact Me 📞
+- Email : johnny22375@gmail.com
+- Phone : 0981093375
+- Notion Notes : 
+  
   
 ### Languages and Tools
 <div>
