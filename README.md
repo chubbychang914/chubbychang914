@@ -4,6 +4,7 @@
   
 <!-- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=chubbychang914&theme=discord) -->
  ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&theme=radical)
 ## About Me
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
   Right now I'm learning Typescipt and trying to upgrade my tech stack!
