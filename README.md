@@ -4,9 +4,9 @@
 
   <table align="center">
     <tr>
-      <td align="center" width="33%"><p>Phone</p></td>
-      <td align="center"><p>Email</p></td>
-      <td align="center"><p>Notion</p></td>
+      <td align="center" width="400"><p>Phone</p></td>
+      <td align="center" width="400"><p>Email</p></td>
+      <td align="center" width="400"><p>Notion</p></td>
     </tr>
     <tr>
       <td><p>0981093375</p></td>
