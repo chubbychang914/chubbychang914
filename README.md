@@ -20,8 +20,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 - Phone : 0981093375
 - Notion Notes : 
 
-## Tech Stack
-<code><h1>Hello there</h1></code>
+## Languages and Tools
  <div>
   <h3 style="margin-left:100px">Web</h3>
   <div>
