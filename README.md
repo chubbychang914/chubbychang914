@@ -16,10 +16,10 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 <br/>
 <ul>
  <li>implemented new features into backstage using Vue Options API</li>
- - Line login 
- - fixed styles of webpage
- - built reusable and modular components
- - used pug and SCSS for cleaner coding style
+ <li>Line login</li> 
+ <li>fixed styles of webpage</li>
+ <li>built reusable and modular components</li>
+ <li>used pug and SCSS for cleaner coding style</li>
 </ul>
 ### iSpan
  - learned React
