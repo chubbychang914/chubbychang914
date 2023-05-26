@@ -37,7 +37,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
  <table align="center">
   <tr>
-    <td width="350" align="center" ><p bold>Frontend</h3></td>
+    <td width="350" align="center" ><h5>Frontend</h5></td>
     <td width="350" align="center" ><p>Backend</p></td>
     <td width="350" align="center"><p>Web Tools</p></td>
   </tr>
