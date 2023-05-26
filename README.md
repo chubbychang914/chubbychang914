@@ -24,6 +24,14 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
  - learned React
  - created a website with React
 
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
+
+**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
+[**Warpnet**](https://warpnet.nl/) • Full-time \
+Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
+Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
+<br/>
 <br/>
 <br/>
 # ► Languages and Tools
