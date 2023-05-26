@@ -1,12 +1,6 @@
 <h1>Hi, I'm Johnny, a Vue Frontend Dev<h1>
-<!-- <img src="https://media.giphy.com/media/go3pCPP4899Jd3xb4p/giphy.gif" style="width: 100%"> -->
- <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" style="text-align: center;">
-<!-- <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"> -->
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
  
-  
-
- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact)
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&theme=radical)
 ## About Me
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
   Right now I'm learning Typescipt and trying to upgrade my tech stack!
