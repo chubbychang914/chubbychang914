@@ -19,7 +19,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
  - learned typescript
 <br/>
 <br/>
-<img align="left" height="50px" width="50px" alt="Tyrtech" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true">
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
 ## iSpan (2022/9 ~ 2022/3)
  - learned React
  - created a website with React
