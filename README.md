@@ -19,24 +19,24 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 <h3>Tyr Tech (2023/3 ~ now)</h3>
 <ul>
- <li>implemented new features into backstage using Vue Options API</li>
+<!--  <li>implemented new features into backstage using Vue Options API</li>
  <li>Line login</li> 
  <li>fixed styles of webpage</li>
  <li>built reusable and modular components</li>
  <li>used pug and SCSS for cleaner coding style</li>
   <li>實習完成東東</li>
-  <li>completed Intern training of company</li>
+  <li>completed Intern training of company</li> -->
 </ul>
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
 
-<h3>iSpan 2022/9 ~ 2023/3</h3>
+<h3>iSpan (2022/9 ~ 2023/3)</h3>
 <ul>
- <li>implemented new features into backstage using Vue Options API</li>
+<!--  <li>implemented new features into backstage using Vue Options API</li>
  <li>Line login</li> 
  <li>fixed styles of webpage</li>
  <li>built reusable and modular components</li>
- <li>used pug and SCSS for cleaner coding style</li>
+ <li>used pug and SCSS for cleaner coding style</li> -->
 </ul>
  
 ## 🕹️ Language and tools
