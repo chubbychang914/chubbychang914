@@ -32,7 +32,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
           title="Figma" alt="Figma" width="50" height="50" />&nbsp;
 </div>
-Frontend
+<h3>Frontend</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
         title="JavaScript" alt="JavaScript" width="50" height="50" />&nbsp;
