@@ -61,7 +61,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
         title="mysql" alt="mysql" width="50" height="50" />&nbsp;
 </div> -->
  
- <div style="display: flex;justify-content: center;">
+<div style="display: flex;justify-content: center;">
       <h3>Web</h3>
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
@@ -94,10 +94,10 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
           title="JavaScript" alt="JavaScript" width="50" height="50" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
           title="jquery" alt="jquery" width="50" height="50" />&nbsp;
-        <div>
+      <div>
 
-          <h3>Backend</h3>
-          <div>
+       <h3>Backend</h3>
+       <div>
             <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
               title="php" alt="php" width="50" height="50" />&nbsp;
             <img
@@ -106,6 +106,6 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
             <img
               src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
               title="mysql" alt="mysql" width="50" height="50" />&nbsp;
-          </div>
         </div>
+</div>
 
