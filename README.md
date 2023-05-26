@@ -87,7 +87,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chubbychang914&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 <div>
-<div>
+<div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="40" height="40" />&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
@@ -100,7 +100,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
           title="jquery" alt="jquery" width="40" height="40" />&nbsp;
   </div>
 <!--    -->
-   <div>
+   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
           title="php" alt="php" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
