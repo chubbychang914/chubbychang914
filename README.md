@@ -23,6 +23,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  <li>built reusable and modular components</li>
  <li>used pug and SCSS for cleaner coding style</li>
   <li>實習完成東東</li>
+  <li>completed Intern training of company</li>
 </ul>
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
