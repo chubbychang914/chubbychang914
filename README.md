@@ -1,6 +1,7 @@
 <div>
 <h1 align="center"> Welcome to my Github page 👋</h1>
-<p align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
+<p align="left"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 
   
@@ -69,7 +70,7 @@
     </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chubbychang914)](https://github.com/anuraghazra/github-readme-stats)
  
 # Contact Me
