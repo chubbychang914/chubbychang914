@@ -1,5 +1,5 @@
 <h1>Hi, I'm Johnny, a Vue Frontend Dev<h1>
-![Alt Text](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
  
 ## About Me
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
