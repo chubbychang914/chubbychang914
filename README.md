@@ -39,13 +39,13 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
  <table align="center">
   <tr>
-    <td width="350" align="center" ><p>Frontend</p></td>
+    <td width="350" align="center" ><h3>Frontend</h3></td>
     <td width="350" align="center" ><p>Backend</p></td>
     <td width="350" align="center"><p>Web Tools</p></td>
   </tr>
   <tr>
    <td align="center">
-     <br/>
+    <br/>
     <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="40" height="40" />&nbsp;
