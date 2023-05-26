@@ -3,7 +3,9 @@
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 
-  
+# About me
+Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
+
 # Experience
 ## Tyr Tech
  - implemented new features into backstage using Vue Options API
