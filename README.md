@@ -88,7 +88,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 # Hello
 
 <div align="center">
-  <div align="left">
+  <img align="left">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="40" height="40" />&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
@@ -99,8 +99,8 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
           title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
           title="jquery" alt="jquery" width="40" height="40" />&nbsp;
-  </div>
-  <div align="left">
+  </img>
+  <img align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
           title="php" alt="php" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
@@ -111,7 +111,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
           title="github" alt="github" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
           title="Git" **alt="Git" width="40" height="40" />
-  </div>
+  </img>
 </div>
 
  
