@@ -7,7 +7,6 @@
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
   Right now I'm learning Typescipt and trying to upgrade my tech stack!
 # ► Experience
-<img align="left" height="50px" width="50px" alt="Tyrtech" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>
 ## Tyr Tech (2023 / 3 ~ now)
  - Used options API to create components
  - Line login workflow
@@ -19,21 +18,10 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
  - learned typescript
 <br/>
 <br/>
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
 ## iSpan (2022/9 ~ 2022/3)
  - learned React
  - created a website with React
 
-<br/>
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
-
-**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
-[**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
-<br/>
-<br/>
-<br/>
 # ► Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
