@@ -87,8 +87,31 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chubbychang914&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Embrs&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Embrs&langs_count=8&theme=dark&count_private=true&layout=compact">
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
+          title="vue" alt="vue" width="40" height="40" />&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
+          title="nuxt" alt="nuxt" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+          title="react" alt="react" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+          title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
+          title="jquery" alt="jquery" width="40" height="40" />&nbsp;
+  </div>
+<!--    -->
+   <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+          title="php" alt="php" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
+          title="laravel" alt="laravel" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+          title="mysql" alt="mysql" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
+          title="github" alt="github" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+          title="Git" **alt="Git" width="40" height="40" />
+  </div>
 </div>
 
  
