@@ -9,8 +9,8 @@
       <td><p>Notion</p></td>
     </tr>
     <tr>
-      <td><p>Phone</p></td>
-      <td><p>Email</p></td>
+      <td><p>0981093375</p></td>
+      <td><p>johnny22375@gmail.com</p></td>
       <td><p>Notion</p></td>
     </tr>
   </table>
