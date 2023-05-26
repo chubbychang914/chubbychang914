@@ -14,11 +14,13 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 ### Tyr Tech 2023/3 ~ now
 <br/>
- - implemented new features into backstage using Vue Options API
+<ul>
+ <li>implemented new features into backstage using Vue Options API</li>
  - Line login 
  - fixed styles of webpage
  - built reusable and modular components
  - used pug and SCSS for cleaner coding style
+</ul>
 ### iSpan
  - learned React
  - created a website with React with 5 other team members
