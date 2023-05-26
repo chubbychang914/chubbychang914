@@ -25,7 +25,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
   <li>實習完成東東</li>
 </ul>
 
-<img align="left" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50" height="50">
+<img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.png?raw=true" width="50" height="50">
 
 <h3 align="left">&nbsp &nbspiSpan 2022/9 ~ 2023/3</h3>
 <br/>
