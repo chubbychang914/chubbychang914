@@ -14,7 +14,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50" height="50">
 
-<h3 align="left">&nbspTyr Tech 2023/3 ~ now</h3>
+<h3 align="left">Tyr Tech 2023/3 ~ now</h3>
 <br/>
 <ul>
  <li>implemented new features into backstage using Vue Options API</li>
