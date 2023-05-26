@@ -4,7 +4,7 @@
 
   <table align="center">
     <tr>
-      <td align="center"><p>Phone</p></td>
+      <td align="center" width="500"><p>Phone</p></td>
       <td align="center"><p>Email</p></td>
       <td align="center"><p>Notion</p></td>
     </tr>
