@@ -60,7 +60,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
   </div>
 </div> -->
  
-<div style="display: flex;justify-content: center;">
+<div style="display: flex;justify-content: center;align-items: center;">
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="50" height="50" />&nbsp;       
