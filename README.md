@@ -3,11 +3,8 @@
   <p align="center"> <img src="https://i.pinimg.com/originals/0a/d1/d7/0ad1d7cef24a77e15099915897edb089.gif" width="100%"/></p>
 </div>
 
-<!-- <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=chubbychang914&theme=onedark"> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&count_private=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&count_private=true&theme=onedark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=onedark" />
 
 <br/>
