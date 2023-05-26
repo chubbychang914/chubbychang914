@@ -25,7 +25,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 - Notion Notes : 
 
 # ► Languages and Tools
- <div>
+ <table>
   <div>
     <h3>Web</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
@@ -67,5 +67,5 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
           title="Git" **alt="Git" width="50" height="50" />
   </div>
-</div>
+</table>
 
