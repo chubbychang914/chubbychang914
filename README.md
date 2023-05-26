@@ -91,9 +91,6 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 - Email : johnny22375@gmail.com
 - Phone : 0981093375
 - Notion Notes : 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
  
 
 
