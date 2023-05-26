@@ -21,7 +21,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 - Notion Notes : 
 
 ## Tech Stack
-<code>```html
+<code>
 <div>
   <h3 style="margin-left:100px">Web</h3>
   <div>
