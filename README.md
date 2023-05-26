@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
-  <div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
+  <div align="center">
     <p>Frontend Developer</p> 
     <p>Frontend Developer</p>
     <p>Frontend Developer</p>
