@@ -25,17 +25,8 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 - Notion Notes : 
 
 # ► Languages and Tools
-<table>
-  <tr>
-    <td align="center"><h3>Web</h3></td>
-    <td><h3>Frontend</h3></td>
-    <td><h3>Backend</h3></td>
-  </tr>
-<!-- ========== -->
-  <tr>
-   <td>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="50" height="50" />&nbsp;       
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
             title="CSS3" alt="CSS" width="50" height="50" />&nbsp;
@@ -45,11 +36,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
           title="SCSS" alt="SCSS" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
             title="Figma" alt="Figma" width="50" height="50" />&nbsp;
-  </div>
-    
-   <td>
-  <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="50" height="50" />&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
           title="nuxt" alt="nuxt" width="50" height="50" />&nbsp;
@@ -59,12 +46,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
           title="JavaScript" alt="JavaScript" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
           title="jquery" alt="jquery" width="50" height="50" />&nbsp;
-  </div>
-    </td>
-
-<td>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
           title="php" alt="php" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
           title="laravel" alt="laravel" width="50" height="50" />&nbsp;
@@ -74,8 +56,5 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
           title="github" alt="github" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
           title="Git" **alt="Git" width="50" height="50" />
-  </div>
-    </td>
-    </tr>
-</table>
+ </div>
 
