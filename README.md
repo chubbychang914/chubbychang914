@@ -8,6 +8,9 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
   Right now I'm learning Typescipt and trying to upgrade my tech stack!
 # Experience
 ## Tyr Tech : Vue Frontend Dev
+ - Used options API to create components
+ - Line login workflow
+ - discussed API structures with backend
  - created Vue components for the 後台
  - made a 伸縮匡 component for 後台
  - 和後端討論 api 架構
