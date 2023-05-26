@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 </div>
  
-# ► About Me
+## ► About Me
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
   Right now I'm learning Typescipt and trying to upgrade my tech stack!\
   
@@ -10,11 +10,11 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 ### Tyr Tech
  - adlifjahdlfkjashdflkjahd 
  - 0 
-## iSpan
+### iSpan
  - learned React
  - created a website with React
 
-# ► Languages and Tools
+## ► Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="40" height="40" />&nbsp;     
