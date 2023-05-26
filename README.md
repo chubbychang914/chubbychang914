@@ -4,7 +4,7 @@
  </div>
 
   
-# 🎮 Experience
+# Experience
 ### Tyr Tech
  - implemented new features into the backstage using Vue Options API
  - 
@@ -13,7 +13,7 @@
  - created a website with React
  - 
 
-# 🎮 Languages and Tools
+# Languages and Tools
  <table align="center">
 
  <td width="400" align="center"><h3>Web</h3></td>
@@ -68,7 +68,7 @@
     </tr>
 </table>
  
-# 🎮 Contact Me
+# Contact Me
 - Email : johnny22375@gmail.com
 - Phone : 0981093375
 - Notion Notes : 
