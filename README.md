@@ -20,7 +20,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
  - learned React
  - created a website with React
 
-[**Warpnet**](https://warpnet.nl/) • Full-time \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
 
 # ► Languages and Tools
 <div>
