@@ -6,6 +6,36 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact"> -->
 </div>
 
+## ⭐️ About me
+Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
+
+## 🧑‍💻 Experience
+<img align="left" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50" height="50">
+
+<h3 align="left">&nbsp &nbspTyr Tech 2023/3 ~ now</h3>
+<br/>
+<ul>
+ <li>implemented new features into backstage using Vue Options API</li>
+ <li>Line login</li> 
+ <li>fixed styles of webpage</li>
+ <li>built reusable and modular components</li>
+ <li>used pug and SCSS for cleaner coding style</li>
+</ul>
+
+<img align="left" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50" height="50">
+
+<h3 align="left">&nbsp &nbspiSpan 2022/9 ~ 2023/3</h3>
+<br/>
+<ul>
+ <li>implemented new features into backstage using Vue Options API</li>
+ <li>Line login</li> 
+ <li>fixed styles of webpage</li>
+ <li>built reusable and modular components</li>
+ <li>used pug and SCSS for cleaner coding style</li>
+</ul>
+ 
+## Language and tools
+
  <table align="center">
   <tr>
     <td width="350" align="center" ><p>Frontend</p></td>
@@ -57,34 +87,6 @@
    </td>
  </tr>
 </table>
-
-## ⭐️ About me
-Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
-
-## 🧑‍💻 Experience
-<img align="left" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50" height="50">
-
-<h3 align="left">&nbsp &nbspTyr Tech 2023/3 ~ now</h3>
-<br/>
-<ul>
- <li>implemented new features into backstage using Vue Options API</li>
- <li>Line login</li> 
- <li>fixed styles of webpage</li>
- <li>built reusable and modular components</li>
- <li>used pug and SCSS for cleaner coding style</li>
-</ul>
-
-<img align="left" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50" height="50">
-
-<h3 align="left">&nbsp &nbspiSpan 2022/9 ~ 2023/3</h3>
-<br/>
-<ul>
- <li>implemented new features into backstage using Vue Options API</li>
- <li>Line login</li> 
- <li>fixed styles of webpage</li>
- <li>built reusable and modular components</li>
- <li>used pug and SCSS for cleaner coding style</li>
-</ul>
  
 ## Contact Me
 - Email : johnny22375@gmail.com
