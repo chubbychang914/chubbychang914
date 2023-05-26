@@ -16,7 +16,9 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
  - 和後端討論 api 架構
  - 敏捷式
  - learned typescript
- 
+## iSpan (2022/9 ~ 2022/3)
+ - learned React
+ - created a website with React
 # ► Contact Me
 - Email : johnny22375@gmail.com
 - Phone : 0981093375
