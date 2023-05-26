@@ -85,6 +85,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 <!-- # Stats -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chubbychang914&theme=dark&background=000000)](https://git.io/streak-stats) -->
+# Hello
 
 <div align="left">
   <div align="center">
