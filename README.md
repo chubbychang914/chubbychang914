@@ -3,13 +3,12 @@
 </div>
  
 # 🎮 About Me
-Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
-  Right now I'm learning Typescipt and trying to upgrade my tech stack!\
+Hi👋 I'm a junior frontend developer
   
 # 🎮 Experience
 ### Tyr Tech
- - adlifjahdlfkjashdflkjahd 
- - 0 
+ - implemented new features into the backstage using Vue Options API
+ - 
 ### iSpan
  - learned React
  - created a website with React
