@@ -1,6 +1,6 @@
 <div>
 <!--   <p align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p> -->
- <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="100%"/>
+ <img src="https://cdn-images-1.medium.com/max/688/1*82D2cg8Gpe9CVISaph6RPg.gif" width="100%"/>
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 
