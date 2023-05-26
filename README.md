@@ -27,7 +27,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
 
-<h3 align="left">&nbsp &nbspiSpan 2022/9 ~ 2023/3</h3>
+<h3 align="left">iSpan 2022/9 ~ 2023/3</h3>
 <br/>
 <ul>
  <li>implemented new features into backstage using Vue Options API</li>
