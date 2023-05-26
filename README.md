@@ -21,10 +21,16 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  <li>built reusable and modular components</li>
  <li>used pug and SCSS for cleaner coding style</li>
 </ul>
-### iSpan
- - learned React
- - created a website with React with 5 other team members
- - used React as frontend and Laravel as the backend
+
+<h3 align="left">&nbsp &nbspiSpan 2022/9 ~ 2023/3</h3>
+<br/>
+<ul>
+ <li>implemented new features into backstage using Vue Options API</li>
+ <li>Line login</li> 
+ <li>fixed styles of webpage</li>
+ <li>built reusable and modular components</li>
+ <li>used pug and SCSS for cleaner coding style</li>
+</ul>
 
 ## 🛠️ Languages and Tools
  <table align="center">
