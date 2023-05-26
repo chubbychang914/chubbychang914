@@ -1,6 +1,6 @@
 <div>
 <!--   <p align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p> -->
- <img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" width="100%"/>
+ <img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" width="80%"/>
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 
