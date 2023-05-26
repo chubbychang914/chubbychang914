@@ -70,6 +70,7 @@
 </table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chubbychang914)](https://github.com/anuraghazra/github-readme-stats)
  
 # Contact Me
 - Email : johnny22375@gmail.com
