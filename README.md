@@ -12,7 +12,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 ## 🧑‍💻 Experience
 
-<img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" height="50">
+<img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50">
 
 <h3 align="left">Tyr Tech 2023/3 ~ now</h3>
 <br/>
@@ -25,7 +25,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
   <li>實習完成東東</li>
 </ul>
 
-<img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.png?raw=true" height="50">
+<img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.png?raw=true" width="50">
 
 <h3 align="left">&nbsp &nbspiSpan 2022/9 ~ 2023/3</h3>
 <br/>
