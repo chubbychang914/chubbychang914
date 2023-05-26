@@ -10,6 +10,7 @@
     <p>Frontend Developer</p>
     <p>Frontend Developer</p>
     <p>Frontend Developer</p>
+    <br/>
   </div>
 </div>
 
