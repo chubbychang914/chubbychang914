@@ -20,6 +20,10 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 - Phone : 0981093375
 - Notion Notes : 
 
+ | First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ## Tech Stack
 <div>
   <h3 style="margin-left:100px">Web</h3>
