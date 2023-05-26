@@ -19,23 +19,18 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
   
   
 ## Languages and Tools
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) 
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)
-![Bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg)
-![SCSS](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg)
-![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg)
-![GitHub](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg)
-![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)
-
-![Vue.js](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg)
-![Nuxt.js](https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg)
-![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![jQuery](https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg)
-
-![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg)
-![Laravel](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg)
-![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg)
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Latest Tweets</b></td>
+        <td><b>daily.dev</b></td>
+     </tr>
+     <tr>
+       <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil sapkota twitter" > </img></a></td>
+        <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a></td>
+     </tr>
+    </table>
+    </div>
 
  
 <!-- <div style="display: flex;justify-content: center;align-items: center;">
