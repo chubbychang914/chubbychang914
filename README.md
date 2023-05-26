@@ -19,7 +19,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  - used React as frontend and Laravel as the backend
 
 ## 🛠️ Languages and Tools
- <table align="center">
+ <table align="left">
   <tr>
     <td width="" align="center"><h3>Web</h3></td>
     <td width="" align="center" ><h3>Frontend</h3></td>
