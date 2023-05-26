@@ -88,7 +88,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 # Hello
 
 <div align="center">
-  <div align="center">
+  <div align="left">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="40" height="40" />&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
