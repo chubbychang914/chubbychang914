@@ -12,8 +12,8 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 ## 🧑‍💻 Experience
 <!-- <img align="left" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="50" height="50"> -->
-<img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/imgs/tyr-icon.png?raw=true" width="50" height="50">
-<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
+<img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50" height="50">
+<!-- <img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/) -->
 
 <h3 align="left">&nbsp &nbspTyr Tech 2023/3 ~ now</h3>
 <br/>
