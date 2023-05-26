@@ -34,7 +34,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
           title="Figma" alt="Figma" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
           title="github" alt="github" width="50" height="50" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
       title="Git" **alt="Git" width="50" height="50" />
 </div>
  
