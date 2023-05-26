@@ -10,7 +10,8 @@
 Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
 
 ## 🧑‍💻 Experience
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="300">
+<img align="left" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="300">
+
 ### Tyr Tech 2023/3 ~ now
  - implemented new features into backstage using Vue Options API
  - Line login 
