@@ -8,8 +8,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
   Right now I'm learning Typescipt and trying to upgrade my tech stack!
 # ► Experience
 [<img align="left" height="50px" width="50px" alt="Tyrtech" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
-<h2 style="text-decoration:none;"> Tyr Tech (2023 / 3 ~ now)</h2>
-
+## Tyr Tech (2023 / 3 ~ now)
  - Used options API to create components
  - Line login workflow
  - discussed API structures with backend
@@ -18,6 +17,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
  - 和後端討論 api 架構
  - 敏捷式
  - learned typescript
+[<img align="left" height="50px" width="50px" alt="Tyrtech" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
 ## iSpan (2022/9 ~ 2022/3)
  - learned React
  - created a website with React
