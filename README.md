@@ -19,21 +19,20 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 - Notion Notes : 
   
   
-### Languages and Tools
+## Languages and Tools
+### Web
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
           title="HTML5" alt="HTML" width="50" height="50" />&nbsp;       
-        <img
-          src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
           title="CSS3" alt="CSS" width="50" height="50" />&nbsp;
-        <img
-          src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
           title="JavaScript" alt="JavaScript" width="50" height="50" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
           title="Bootstrap" alt="Bootstrap" width="50" height="50" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
         title="SCSS" alt="SCSS" width="50" height="50" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
           title="Figma" alt="Figma" width="50" height="50" />&nbsp;
 </div>
 
