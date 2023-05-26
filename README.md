@@ -15,7 +15,7 @@
 # 🎮 Languages and Tools
  <table>
   <tr>
-    <td align="center" width="33%"><h3>Web</h3></td>
+    <td align="center" width="600"><h3>Web</h3></td>
     <td><h3>Frontend</h3></td>
     <td><h3>Backend</h3></td>
   </tr>
