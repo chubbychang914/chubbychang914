@@ -7,6 +7,7 @@
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
   Right now I'm learning Typescipt and trying to upgrade my tech stack!
 # ► Experience
+[<img align="left" height="50px" width="50px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
 ## Tyr Tech (2023 / 3 ~ now)
  - Used options API to create components
  - Line login workflow
@@ -20,7 +21,6 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
  - learned React
  - created a website with React
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
 
 # ► Languages and Tools
 <div>
