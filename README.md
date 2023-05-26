@@ -1,15 +1,7 @@
 <div>
 <h1 align="center"> Welcome to my Github page 👋</h1>
-<table>
- <tr>
-  <td>
-    <p align="left"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
-   </td>
-  <td>
-  
-   </td>
- </tr>
-</table>
+<p align="left"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
+
  </div>
 
   
