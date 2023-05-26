@@ -3,20 +3,20 @@
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 
-# ⭐️ About me
+## ⭐️ About me
 Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
 
-# 🧑‍💻 Experience
-## Tyr Tech
+## 🧑‍💻 Experience
+### Tyr Tech
  - implemented new features into backstage using Vue Options API
  - Line login 
  - fixed styles of webpage
-## iSpan
+### iSpan
  - learned React
  - created a website with React with 5 other team members
  - used React as frontend and Laravel as the backend
 
-# 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
  <table align="center">
 
  <td width="400" align="center"><h3>Web</h3></td>
@@ -71,17 +71,19 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
     </tr>
 </table>
 
-
-[![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chubbychang914)](https://github.com/anuraghazra/github-readme-stats)
+<!--  -->
+<!-- [![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chubbychang914)](https://github.com/anuraghazra/github-readme-stats) -->
  
 # Contact Me
 - Email : johnny22375@gmail.com
 - Phone : 0981093375
 - Notion Notes : 
 
-# Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chubbychang914&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- # Stats -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chubbychang914&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
+ 
 
 
