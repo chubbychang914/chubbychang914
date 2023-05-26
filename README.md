@@ -26,6 +26,11 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 
 # ► Languages and Tools
  <table>
+ <tr>
+  <h3>Web</h3>
+  <h3>Frontend</h3>
+  <h3>Backend</h3>
+  </tr>
   <tr>
    <td>
   <div>
@@ -70,7 +75,6 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
           title="Git" **alt="Git" width="50" height="50" />
   </div>
     </td>
-   <td>Hello world</td>
     </tr>
 </table>
 
