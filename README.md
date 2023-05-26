@@ -3,8 +3,8 @@
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Embrs&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Embrs&langs_count=8&theme=dark&count_private=true&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
 </div>
 
 ## ⭐️ About me
