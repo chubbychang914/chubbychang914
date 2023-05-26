@@ -28,7 +28,9 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
        <td><h1>Web<h1></td>
         <td><h1>Frontend<h1></td>
          <td><h1>Backend<h1></td>
-        <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+     </tr>
+     <tr>
+              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="50" height="50" />&nbsp;       
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
             title="CSS3" alt="CSS" width="50" height="50" />&nbsp;
@@ -42,9 +44,6 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
             title="github" alt="github" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
         title="Git" **alt="Git" width="50" height="50" /></td>
-     </tr>
-     <tr>
-        <td><h1>Frontend<h1></td>
          <td>
            <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="50" height="50" />&nbsp;
@@ -57,6 +56,13 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
           title="jquery" alt="jquery" width="50" height="50" />&nbsp;
           </td>
+       <td>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+          title="php" alt="php" width="50" height="50" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
+          title="laravel" alt="laravel" width="50" height="50" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+          title="mysql" alt="mysql" width="50" height="50" />&nbsp;</td>
      </tr>
     </table>
     </div>
