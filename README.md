@@ -13,11 +13,18 @@
  - created a website with React
 
 # 🎮 Languages and Tools
-<div>
- <h3>Web</h3>
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-            title="HTML5" alt="HTML" width="40" height="40" />&nbsp;     
+ <table>
+  <tr>
+    <td align="center"><h3>Web</h3></td>
+    <td><h3>Frontend</h3></td>
+    <td><h3>Backend</h3></td>
+  </tr>
+<!-- ========== -->
+  <tr>
+   <td>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+            title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
             title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
@@ -27,10 +34,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
             title="Figma" alt="Figma" width="40" height="40" />&nbsp;
   </div>
- 
- <h3>Web</h3>
- <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
+    
+   <td>
+  <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="40" height="40" />&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
           title="nuxt" alt="nuxt" width="40" height="40" />&nbsp;
@@ -40,8 +47,12 @@
           title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
           title="jquery" alt="jquery" width="40" height="40" />&nbsp;
- </div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+  </div>
+    </td>
+
+<td>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
           title="php" alt="php" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
           title="laravel" alt="laravel" width="40" height="40" />&nbsp;
@@ -51,7 +62,10 @@
           title="github" alt="github" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
           title="Git" **alt="Git" width="40" height="40" />
- </div>
+  </div>
+    </td>
+    </tr>
+</table>
  
 # 🎮 Contact Me
 - Email : johnny22375@gmail.com
