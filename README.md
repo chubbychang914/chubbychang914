@@ -6,12 +6,10 @@
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
   Right now I'm learning Typescipt and trying to upgrade my tech stack!\
   
-# ► Experience
-## Tyr Tech
-### 官網
-Line login mixin component in Vue
-### 後台
-Used Vue options API to create a 伸縮匡，for color selector. Also built an auto shelf function for devs to do testing.
+## ► Experience
+### Tyr Tech
+ - adlifjahdlfkjashdflkjahd 
+ - 0 
 ## iSpan
  - learned React
  - created a website with React
