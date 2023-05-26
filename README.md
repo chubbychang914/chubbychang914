@@ -7,10 +7,10 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact"> -->
 </div>
 
-## ⭐️ About me
+## About me
 Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
 
-## 🧑‍💻 Experience
+## Experience
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
 
