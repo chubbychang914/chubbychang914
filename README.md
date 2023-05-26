@@ -19,46 +19,10 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 - Email : johnny22375@gmail.com
 - Phone : 0981093375
 - Notion Notes : 
-<div align="center">
-    <table >
-     <tr>
-       <td><h1>Web<h1></td>
-        <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-            title="HTML5" alt="HTML" width="50" height="50" />&nbsp;       
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-            title="CSS3" alt="CSS" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
-            title="Bootstrap" alt="Bootstrap" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
-          title="SCSS" alt="SCSS" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
-            title="Figma" alt="Figma" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
-            title="github" alt="github" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-        title="Git" **alt="Git" width="50" height="50" /></td>
-     </tr>
-     <tr>
-        <td><h1>Frontend<h1></td>
-         <td>
-           <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
-          title="vue" alt="vue" width="50" height="50" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
-          title="nuxt" alt="nuxt" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-          title="react" alt="react" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-          title="JavaScript" alt="JavaScript" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
-          title="jquery" alt="jquery" width="50" height="50" />&nbsp;
-          </td>
-     </tr>
-    </table>
-    </div>
 
   
 ## Languages and Tools
-<div align="center">
+<div align="left">
     <table >
      <tr>
        <td><h1>Web<h1></td>
