@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center"> Welcome to my Github page 👋</h1>
-  <p align="center"> <img src="https://i.pinimg.com/originals/0a/d1/d7/0ad1d7cef24a77e15099915897edb089.gif" width="100%"/></p>
+  <p align="center"> <img src="https://github.com/chubbychang914/chubbychang914/blob/main/image/pacman.gif?raw=true" width="100%"/></p>
 </div>
 
 <!-- 
