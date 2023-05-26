@@ -10,17 +10,9 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 # ► Experience
 ## Tyr Tech
 ### 官網
- - adde
+Line login mixin component in Vue
 ### 後台
- - adfadf
- - Used options API to create components
- - Line login workflow
- - discussed API structures with backend
- - created Vue components for the 後台
- - made a 伸縮匡 component for 後台
- - 和後端討論 api 架構
- - 敏捷式
- - learned typescript
+Used Vue options API to create a 伸縮匡，for color selector. Also built an auto shelf function for devs to do testing.
 ## iSpan
  - learned React
  - created a website with React
