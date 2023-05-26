@@ -20,8 +20,8 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 ## 🛠️ Languages and Tools
  <table align="center">
-
- <td width="400" align="center"><h3>Web</h3></td>
+  <tr>
+    <td width="400" align="center"><h3>Web</h3></td>
     <td width="400" align="center" ><h3>Frontend</h3></td>
     <td width="400" align="center" ><h3>Backend</h3></td>
   </tr>
