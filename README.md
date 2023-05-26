@@ -1,7 +1,7 @@
 <div>
 <h1 align="center"> Welcome to my Github page 👋</h1>
 <p align="left"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
  </div>
 
   
