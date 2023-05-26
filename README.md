@@ -6,12 +6,13 @@
   
 # Experience
 ### Tyr Tech
- - implemented new features into the backstage using Vue Options API
- - 
+ - implemented new features into backstage using Vue Options API
+ - Line login 
+ - fixed styles of webpage
 ### iSpan
  - learned React
- - created a website with React
- - 
+ - created a website with React with 5 other team members
+ - used React as frontend and Laravel as the backend
 
 # Languages and Tools
  <table align="center">
