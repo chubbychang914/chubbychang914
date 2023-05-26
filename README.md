@@ -25,11 +25,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
     <table >
      <tr>
        <td><h1>Web<h1></td>
-        <td><h1>Frontend<h1></td>
-         <td><h1>Backend<h1></td>
-     </tr>
-     <tr>
-              <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+        <td> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="50" height="50" />&nbsp;       
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
             title="CSS3" alt="CSS" width="50" height="50" />&nbsp;
@@ -44,6 +40,8 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
         title="Git" **alt="Git" width="50" height="50" /></td>
          <td>
+     </tr>
+     <tr>
            <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="50" height="50" />&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
