@@ -103,9 +103,9 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 <table align="center">
     <tr>
-      <td align="center" width="400"><p>Phone</p></td>
-      <td align="center" width="400"><p>Email</p></td>
-      <td align="center" width="400"><p>Notion</p></td>
+      <td align="center" width="350"><p>Phone</p></td>
+      <td align="center" width="350"><p>Email</p></td>
+      <td align="center" width="350"><p>Notion</p></td>
     </tr>
     <tr>
       <td><p>0981093375</p></td>
