@@ -22,8 +22,8 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 
 ## Tech Stack
 <div>
-  <h3>Web</h3>
-  <div style="background-color: blue">
+  <h3 style="margin-left:100px">Web</h3>
+  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="50" height="50" />&nbsp;       
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
