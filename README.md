@@ -1,6 +1,9 @@
 <div>
   <p align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
   <h1 align="center"> Welcome to my Github page 👋</h1>
+  | Phone| Email | 
+  | 0981093375 | johnny22375@gmail.com |
+
 </div>
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact"> -->
