@@ -13,6 +13,20 @@
 ## About me
 Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
 
+
+  <table align="center">
+    <tr>
+      <td align="center" width="400"><p>Phone</p></td>
+      <td align="center" width="400"><p>Email</p></td>
+      <td align="center" width="400"><p>Notion</p></td>
+    </tr>
+    <tr>
+      <td><p>0981093375</p></td>
+      <td><p>johnny22375@gmail.com</p></td>
+      <td><p>Notion</p></td>
+    </tr>
+  </table>
+
 ## Experience
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
@@ -97,18 +111,6 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  
 ## Contact Me
 
-  <table align="center">
-    <tr>
-      <td align="center" width="400"><p>Phone</p></td>
-      <td align="center" width="400"><p>Email</p></td>
-      <td align="center" width="400"><p>Notion</p></td>
-    </tr>
-    <tr>
-      <td><p>0981093375</p></td>
-      <td><p>johnny22375@gmail.com</p></td>
-      <td><p>Notion</p></td>
-    </tr>
-  </table>
  
 
 
