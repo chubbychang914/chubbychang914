@@ -5,6 +5,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
+  <img src="https://github-profile-trophy.vercel.app/?username=chubbychang914&theme=onedark">
 </div>
 
 ## 🕹️ About me
