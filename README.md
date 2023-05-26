@@ -20,6 +20,22 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 - Phone : 0981093375
 - Notion Notes : 
 
+\## Tech Stack
+
+Web
+===
+
+Frontend
+========
+
+Backend
+=======
+
+![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg "HTML5")  ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg "CSS3")  ![Bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg "Bootstrap")  ![SCSS](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg "SCSS")  ![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg "Figma")  ![github](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg "github")  ![](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg "Git")
+
+![vue](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg "vue")  ![nuxt](https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg "nuxt")  ![react](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg "react")  ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript")  ![jquery](https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg "jquery") 
+
+![php](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg "php")  ![laravel](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg "laravel")  ![mysql](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg "mysql")
   
 ## Tech Stack
 <div align="left">
