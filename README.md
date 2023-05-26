@@ -27,9 +27,9 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 # ► Languages and Tools
  <table>
  <tr>
-  <h3>Web</h3>
-  <h3>Frontend</h3>
-  <h3>Backend</h3>
+  <td><h3>Web</h3></td>
+  <td><h3>Frontend</h3></td>
+  <td><h3>Backend</h3></td>
   </tr>
   <tr>
    <td>
