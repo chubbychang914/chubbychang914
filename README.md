@@ -20,13 +20,13 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 <h3>前端工程師</h3>
 <p>泰爾科技 (2023/03 ~ now)</p>
 <ul>
-<!--  <li>implemented new features into backstage using Vue Options API</li>
+ <li>implemented new features into backstage using Vue Options API</li>
  <li>Line login</li> 
  <li>fixed styles of webpage</li>
  <li>built reusable and modular components</li>
  <li>used pug and SCSS for cleaner coding style</li>
-  <li>實習完成東東</li>
-  <li>completed Intern training of company</li> -->
+ <li>實習完成東東</li>
+ <li>completed Intern training of company</li>
 </ul>
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
