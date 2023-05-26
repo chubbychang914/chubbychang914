@@ -26,7 +26,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
     <td width="" align="center" ><h3>Backend</h3></td>
   </tr>
   <tr>
-   <td>
+   <td align="center">
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
