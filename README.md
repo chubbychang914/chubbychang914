@@ -34,10 +34,6 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
           title="SCSS" alt="SCSS" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
             title="Figma" alt="Figma" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
-            title="github" alt="github" width="50" height="50" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-        title="Git" **alt="Git" width="50" height="50" />
   </div>
 
   <h3>Frontend</h3>
@@ -62,6 +58,10 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
           title="laravel" alt="laravel" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
           title="mysql" alt="mysql" width="50" height="50" />&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
+            title="github" alt="github" width="50" height="50" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+        title="Git" **alt="Git" width="50" height="50" />
   </div>
 </div>
 
