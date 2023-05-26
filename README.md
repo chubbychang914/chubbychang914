@@ -3,10 +3,10 @@
 </div>
 
  
-# About Me
+# ► About Me
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
   Right now I'm learning Typescipt and trying to upgrade my tech stack!
-# Experience
+# ► Experience
 ## Tyr Tech (2023 / 3 ~ now)
  - Used options API to create components
  - Line login workflow
@@ -17,7 +17,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
  - 敏捷式
  - learned typescript
  
-# Contact Me 📞
+# ► Contact Me
 - Email : johnny22375@gmail.com
 - Phone : 0981093375
 - Notion Notes : 
