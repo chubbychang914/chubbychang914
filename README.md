@@ -1,5 +1,6 @@
 <h1>Hi, I'm Johnny, a Vue Frontend Dev<h1>
-<img src="https://media.giphy.com/media/go3pCPP4899Jd3xb4p/giphy.gif" style="width: 100%">
+<!-- <img src="https://media.giphy.com/media/go3pCPP4899Jd3xb4p/giphy.gif" style="width: 100%"> -->
+ <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" style="text-align: center;">
 <!-- <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"> -->
  
   
