@@ -1,13 +1,13 @@
 <div align="center">
   <h1 align="center"> Welcome to my Github page 👋</h1>
-  <p align="center"> <img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" width="50%"/></p>
+  <p align="center"> <img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" width="80%"/></p>
 </div>
 
-## 👉 About me
+## 🕹️ About me
 Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
 
 
-## 👉 Experience
+## 🕹️ Experience
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
 
@@ -35,7 +35,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  <li>used pug and SCSS for cleaner coding style</li>
 </ul>
  
-## 👉 Language and tools
+## 🕹️ Language and tools
 
  <table align="center">
   <tr>
@@ -89,7 +89,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  </tr>
 </table>
  
-## 👉 Contact Me
+## 🕹️ Contact Me
 
 <table align="center">
     <tr>
