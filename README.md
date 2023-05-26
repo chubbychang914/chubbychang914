@@ -3,10 +3,10 @@
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 
-# About me
+# ⭐️ About me
 Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
 
-# Experience
+# 🧑‍💻 Experience
 ## Tyr Tech
  - implemented new features into backstage using Vue Options API
  - Line login 
@@ -16,7 +16,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  - created a website with React with 5 other team members
  - used React as frontend and Laravel as the backend
 
-# Languages and Tools
+# 🛠️ Languages and Tools
  <table align="center">
 
  <td width="400" align="center"><h3>Web</h3></td>
