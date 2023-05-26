@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <p align="center"> <img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" width="80%"/></p>
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
