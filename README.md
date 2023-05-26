@@ -21,25 +21,11 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 ## 🛠️ Languages and Tools
  <table>
   <tr>
-    <td width="350" align="center"><p>Web Tools</p></td>
     <td width="350" align="center" ><p>Frontend</p></td>
     <td width="350" align="center" ><p>Backend</p></td>
+    <td width="350" align="center"><p>Web Tools</p></td>
   </tr>
   <tr>
-   <td align="center">
-    <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-            title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-            title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
-            title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
-          title="SCSS" alt="SCSS" width="40" height="40" />&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
-            title="Figma" alt="Figma" width="40" height="40" />&nbsp;
-    </div>
-   </td>
    <td align="center">
     <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
@@ -68,6 +54,20 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
           title="Git" **alt="Git" width="40" height="40" />
    </div>
   </td>
+  <td align="center">
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+            title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+            title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
+            title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+          title="SCSS" alt="SCSS" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+            title="Figma" alt="Figma" width="40" height="40" />&nbsp;
+    </div>
+   </td>
  </tr>
 </table>
  
