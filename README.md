@@ -19,10 +19,6 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 ## iSpan (2022/9 ~ 2022/3)
  - learned React
  - created a website with React
-# ► Contact Me
-- Email : johnny22375@gmail.com
-- Phone : 0981093375
-- Notion Notes : 
 
 # ► Languages and Tools
 <div>
@@ -57,4 +53,11 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
           title="Git" **alt="Git" width="50" height="50" />
  </div>
+ 
+# ► Contact Me
+- Email : johnny22375@gmail.com
+- Phone : 0981093375
+- Notion Notes : 
+
+
 
