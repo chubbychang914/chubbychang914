@@ -8,6 +8,11 @@
       <td><p>Email</p></td>
       <td><p>Notion</p></td>
     </tr>
+    <tr>
+      <td><p>Phone</p></td>
+      <td><p>Email</p></td>
+      <td><p>Notion</p></td>
+    </tr>
   </table>
 
 </div>
