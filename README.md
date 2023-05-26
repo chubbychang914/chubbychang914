@@ -1,4 +1,4 @@
-<h1>Hi, I'm Johnny! 🚀<h1>
+<h1>Hi, I'm Johnny, a Vue Frontend Dev<h1>
 <img src="https://media.giphy.com/media/go3pCPP4899Jd3xb4p/giphy.gif" style="display:flex; justify-content: center">
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
  
