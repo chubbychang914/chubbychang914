@@ -3,11 +3,6 @@
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=chubbychang914&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000">
-</div>
-
 ## About me
 Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
 
@@ -96,6 +91,9 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  
 ## Contact Me
 
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=chubbychang914&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000">
+</div>
 
 
