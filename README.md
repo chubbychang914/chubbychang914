@@ -5,7 +5,8 @@
  
 # ► About Me
 Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and is currently working at TYR tech.
-  Right now I'm learning Typescipt and trying to upgrade my tech stack!
+  Right now I'm learning Typescipt and trying to upgrade my tech stack!\
+  
 # ► Experience
 ## Tyr Tech (2023 / 3 ~ now)
  - Used options API to create components
@@ -18,7 +19,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
  - learned typescript
 <br/>
 <br/>
-## iSpan (2022/9 ~ 2022/3)
+<h2>iSpan (2022/9 ~ 2022/3)<h2/>
  - learned React
  - created a website with React
 
