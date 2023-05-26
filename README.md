@@ -25,12 +25,13 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 - Notion Notes : 
 
 # ► Languages and Tools
- <table>
- <tr>
-  <td><h3>Web</h3></td>
-  <td><h3>Frontend</h3></td>
-  <td><h3>Backend</h3></td>
+<table>
+  <tr>
+    <td align="center"><h3>Web</h3></td>
+    <td><h3>Frontend</h3></td>
+    <td><h3>Backend</h3></td>
   </tr>
+<!-- ========== -->
   <tr>
    <td>
   <div>
