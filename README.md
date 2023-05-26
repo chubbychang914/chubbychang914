@@ -23,14 +23,9 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
 
 # ► Languages and Tools
-### Web
-<img align="left" height="40px" width="50px" alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-<img align="left" height="40px" width="50px" alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="40" height="40" />&nbsp;     
-
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
             title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
