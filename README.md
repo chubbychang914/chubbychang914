@@ -1,9 +1,10 @@
+<div>
 <h1 align="center"> Welcome to my Github page 👋</h1>
 
 <div align="center" border="none">
  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 </div>
- 
+ </div>
 
   
 # 🎮 Experience
