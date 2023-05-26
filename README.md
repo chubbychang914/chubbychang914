@@ -25,22 +25,21 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
     <td width="" align="center" ><h3>Frontend</h3></td>
     <td width="" align="center" ><h3>Backend</h3></td>
   </tr>
-<!-- ========== -->
   <tr>
    <td>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
             title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
             title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
           title="SCSS" alt="SCSS" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
             title="Figma" alt="Figma" width="40" height="40" />&nbsp;
-  </div>
-    
+    </div>
+    </td>
    <td>
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
