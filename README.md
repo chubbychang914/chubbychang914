@@ -6,7 +6,7 @@
     <p align="left"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
    </td>
   <td>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
    </td>
  </tr>
 </table>
@@ -88,5 +88,7 @@
 
 # Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chubbychang914&theme=dark&background=000000)](https://git.io/streak-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
