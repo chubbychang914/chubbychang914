@@ -45,6 +45,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
   </tr>
   <tr>
    <td align="center">
+     <br/>
     <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="40" height="40" />&nbsp;
