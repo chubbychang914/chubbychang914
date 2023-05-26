@@ -3,9 +3,9 @@
   <p align="center"> <img src="https://i.pinimg.com/originals/0a/d1/d7/0ad1d7cef24a77e15099915897edb089.gif" width="100%"/></p>
 </div>
 
-
+<!-- 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&count_private=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" /> -->
 
 <br/>
 
