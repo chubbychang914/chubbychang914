@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 </div>
  
-# Hi👋 I'm a junior frontend developer
+# Welcome to my Github page 👋
   
 # 🎮 Experience
 ### Tyr Tech
