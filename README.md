@@ -17,8 +17,8 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
 
-<h3 align="left">前端工程師</h3>
-<h4 align="left">泰爾科技 (2023/3 ~ now)</h4>
+<h3>前端工程師</h3>
+<p>泰爾科技 (2023/3 ~ now)</p>
 
 
 <ul>
