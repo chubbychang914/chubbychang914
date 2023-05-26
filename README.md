@@ -3,7 +3,8 @@
   </div>
 
 <div>
-  <p align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
+<!--   <p align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p> -->
+ <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 
