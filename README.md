@@ -34,5 +34,16 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
           title="Figma" alt="Figma" width="50" height="50" />&nbsp;
 </div>
+ 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+        title="JavaScript" alt="JavaScript" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
+        title="jquery" alt="jquery" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+        title="react" alt="react" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"
+        title="nuxt" alt="nuxt" width="50" height="50" />&nbsp;
+<div>
 
 
