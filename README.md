@@ -4,13 +4,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
-  <ul>
-    <li><p>Frontend Developer</p></li> 
-    <li><p>Frontend Developer</p></li>
-    <li><p>Frontend Developer</p></li>
-    <li><p>Frontend Developer</p></li>
-  </ul>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
+  <div align="left">
+    <p>Frontend Developer</p> 
+    <p>Frontend Developer</p>
+    <p>Frontend Developer</p>
+    <p>Frontend Developer</p>
+  </div>
 </div>
 
 ## 🕹️ About me
