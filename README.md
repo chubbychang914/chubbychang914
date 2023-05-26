@@ -99,7 +99,6 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
           title="jquery" alt="jquery" width="40" height="40" />&nbsp;
   </div>
-<!--    -->
   <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
           title="php" alt="php" width="40" height="40" />&nbsp;
