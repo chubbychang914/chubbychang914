@@ -2,19 +2,6 @@
   <p align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
   <h1 align="center"> Welcome to my Github page 👋</h1>
 
-  <table align="center">
-    <tr>
-      <td align="center" width="400"><p>Phone</p></td>
-      <td align="center" width="400"><p>Email</p></td>
-      <td align="center" width="400"><p>Notion</p></td>
-    </tr>
-    <tr>
-      <td><p>0981093375</p></td>
-      <td><p>johnny22375@gmail.com</p></td>
-      <td><p>Notion</p></td>
-    </tr>
-  </table>
-
 </div>
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact"> -->
@@ -104,9 +91,19 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 </table>
  
 ## Contact Me
-- Email : johnny22375@gmail.com
-- Phone : 0981093375
-- Notion Notes : 
+
+  <table align="center">
+    <tr>
+      <td align="center" width="400"><p>Phone</p></td>
+      <td align="center" width="400"><p>Email</p></td>
+      <td align="center" width="400"><p>Notion</p></td>
+    </tr>
+    <tr>
+      <td><p>0981093375</p></td>
+      <td><p>johnny22375@gmail.com</p></td>
+      <td><p>Notion</p></td>
+    </tr>
+  </table>
  
 
 
