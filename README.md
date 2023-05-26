@@ -9,6 +9,10 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
   
 # ► Experience
 ## Tyr Tech
+### 官網
+ - adde
+### 後台
+ - adfadf
  - Used options API to create components
  - Line login workflow
  - discussed API structures with backend
