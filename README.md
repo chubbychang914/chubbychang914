@@ -18,9 +18,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
 
 <h3>前端工程師</h3>
-<p>泰爾科技 (2023/3 ~ now)</p>
-
-
+<p>泰爾科技 (2023/03 ~ now)</p>
 <ul>
 <!--  <li>implemented new features into backstage using Vue Options API</li>
  <li>Line login</li> 
@@ -33,7 +31,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
 <h3>全端工程師養成班</h3>
-<h3>iSpan (2022/9 ~ 2023/3)</h3>
+<p>資展國際 (2022/09 ~ 2023/03)</p>
 <ul>
 <!--  <li>implemented new features into backstage using Vue Options API</li>
  <li>Line login</li> 
