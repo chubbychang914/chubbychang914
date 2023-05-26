@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center"> Welcome to my Github page 👋</h1>
   <p align="center"><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"></p>
+  <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 
   
