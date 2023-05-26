@@ -3,7 +3,7 @@
   <h1 align="center"> Welcome to my Github page 👋</h1>
 </div>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&langs_count=8&theme=dark&count_private=true&layout=compact">
 </div>
 
 ## ⭐️ About me
