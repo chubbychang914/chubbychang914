@@ -40,7 +40,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
             title="Figma" alt="Figma" width="40" height="40" />&nbsp;
     </div>
    </td>
-   <td>
+   <td align="center">
     <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="40" height="40" />&nbsp;
@@ -54,7 +54,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
           title="jquery" alt="jquery" width="40" height="40" />&nbsp;
      </div>
    </td>
-   <td>
+   <td align="center">
     <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
           title="php" alt="php" width="40" height="40" />&nbsp;
