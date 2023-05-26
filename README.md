@@ -22,7 +22,7 @@ Hi, I'm Johnny, a frontend Vue and React developer! I started coding in 2022 and
 
 ## Languages and Tools
 <pre>
- <div>
+ <div style="display: flex;>
   <h3 style="margin-left:100px">Web</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
