@@ -108,7 +108,11 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  
 ## 🕹️ Contact Me
 
-<table align="center">
+### Email:
+### Phone:
+### Notion:
+
+<!-- <table align="center">
     <tr>
       <td align="center" width="350"><p>Phone</p></td>
       <td align="center" width="350"><p>Email</p></td>
@@ -119,7 +123,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
       <td><p>johnny22375@gmail.com</p></td>
       <td><p>Notion</p></td>
     </tr>
-  </table>
+  </table> -->
 
 
 
