@@ -6,13 +6,6 @@
 <!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
 
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&count_private=true&theme=dark" /> -->
-
-
-<div>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" /> 
-<div> 
-
 <!-- <br/> -->
 
 ## 🕹️ About me
@@ -111,6 +104,13 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 <h4> 📞 &nbspPhone : 0981093375</h4>
 <h4> 📒 &nbspNotion :  <h4>
 
+  
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&count_private=true&theme=dark" /> -->
+
+
+<div>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" /> 
+<div> 
 <!-- <table align="center">
     <tr>
       <td align="center" width="350"><p>Phone</p></td>
