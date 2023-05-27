@@ -10,7 +10,7 @@
 
 
 <div>
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" />  -->
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" /> 
 <div> 
 
 <!-- <br/> -->
