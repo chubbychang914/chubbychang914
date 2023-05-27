@@ -3,12 +3,16 @@
   <p align="center"> <img src="https://github.com/chubbychang914/chubbychang914/blob/main/image/pacman.gif?raw=true" width="100%"/></p>
 </div>
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
 
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&count_private=true&theme=dark" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" />
+
+## Contact Me
+### Email: johnny22375@gmail.com 
+### Phone: 0981093375
 
 <!-- <br/> -->
 
