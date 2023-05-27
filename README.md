@@ -8,11 +8,13 @@
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&count_private=true&theme=dark" /> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" />
 
-## Contact Me
-### Email: johnny22375@gmail.com 
-### Phone: 0981093375
+<div>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" /> 
+ <div>
+   <h2>Contact Me</h2>
+  </div>
+<div>  s
 
 <!-- <br/> -->
 
