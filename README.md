@@ -3,11 +3,6 @@
   <p align="center"> <img src="https://github.com/chubbychang914/chubbychang914/blob/main/image/pacman.gif?raw=true" width="100%"/></p>
 </div>
 
-<!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
-
-
-<!-- <br/> -->
-
 ## 🕹️ About me
 Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
 
