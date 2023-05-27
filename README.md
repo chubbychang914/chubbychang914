@@ -5,9 +5,10 @@
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-<!-- 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&count_private=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" /> -->
+
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=chubbychang914&show_icons=true&count_private=true&theme=dark" /> -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" />
 
 <!-- <br/> -->
 
