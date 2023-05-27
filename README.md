@@ -100,10 +100,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 <h4> 📒 &nbspNotion :  <h4>
 
 
-<div>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chubbychang914&layout=compact&count_private=true&theme=dark" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chubbychang914" />
-<div> 
+<!-- 
 
 
 
