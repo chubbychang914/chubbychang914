@@ -107,7 +107,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 </table>
  
 ## 🕹️ Contact Me
-#### 📫 &nbspEmail : johnny22375@gmail.com 
+<h4>📫 &nbspEmail : johnny22375@gmail.com</h4> 
 #### 📞 &nbspPhone : 0981093375
 #### 📒 &nbspNotion :  
 
