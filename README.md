@@ -108,6 +108,7 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
  
 ## 🕹️ Contact Me
 
+<img width="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/notion_logo_icon_145025.png"/>
 #### ✉️ Email: johnny22375@gmail.com 
 #### 📞 Phone: 0981093375
 #### 📒 Notion:  
