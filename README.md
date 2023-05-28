@@ -12,7 +12,7 @@ while contributing to collaborative projects！
 
 <br/>
 
-## 🕹️ Language and tools
+# 🕹️ Language and tools
 
  <table align="center">
   <tr>
@@ -74,7 +74,7 @@ while contributing to collaborative projects！
 
 <br/>
 
-## 🕹️ Experience
+# 🕹️ Experience
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
 
@@ -103,7 +103,7 @@ while contributing to collaborative projects！
  
 <br/>
  
-## 🕹️ Contact Me
+# 🕹️ Contact Me
 <!-- <p>Thanks for stopping by! Give me a call or send me an email</p> -->
 
 <p>📫 &nbspEmail : johnny22375@gmail.com</p> 
