@@ -106,9 +106,9 @@ while contributing to collaborative projects！
 # 🕹️ Contact Me
 <!-- <p>Thanks for stopping by! Give me a call or send me an email</p> -->
 
-<p>📫 &nbspEmail : johnny22375@gmail.com</p> 
-<p> 📞 &nbspPhone : 0981093375</p>
-<p> 📒 &nbspNotion :  <p>
+<h4>📫 &nbspEmail : johnny22375@gmail.com</h4> 
+<h4> 📞 &nbspPhone : 0981093375</h4>
+<h4> 📒 &nbspNotion :  <h4>
 
 
   
