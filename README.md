@@ -4,7 +4,7 @@
 </div>
 
 ## 🕹️ About me
-Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS. I love learning new stuff and is always looking for ways to improve my coding style!
+Hello there! My name is Johnny and I'm a frontend developer. 
 
 
 ## 🕹️ Experience
@@ -95,11 +95,15 @@ Hi ~ I'm Johnny, a frontend dev that builds web applications using Vue and SCSS.
 </table>
  
 ## 🕹️ Contact Me
+<!-- <p>Thanks for stopping by! Give me a call or send me an email</p> -->
+
 <h4>📫 &nbspEmail : johnny22375@gmail.com</h4> 
 <h4> 📞 &nbspPhone : 0981093375</h4>
 <h4> 📒 &nbspNotion :  <h4>
 
 
+  
+  
 <!-- 
 
 
