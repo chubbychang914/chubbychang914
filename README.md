@@ -91,7 +91,7 @@ while contributing to collaborative projects!
 </ul>
 
 <h2>Fullstack Developer Bootcamp</h2>
-<p>資展國際 (2022/09 ~ 2023/03)</p>
+<p>資展國際 (2022/09 ~ 2023/02)</p>
 <ul>
   <li>Setup a website using React as the frontend and Laravel as the backend </li>
   <li>Created login and member interface of website</li>
