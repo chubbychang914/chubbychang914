@@ -16,7 +16,7 @@ while contributing to collaborative projects！
 
  <table align="center">
   <tr>
-    <td width="350" align="center" ><p>Frontend</p></td>
+    <td width="350" align="center" ><h3>Frontend</h3></td>
     <td width="350" align="center" ><p>Backend</p></td>
     <td width="350" align="center"><p>Web Tools</p></td>
   </tr>
