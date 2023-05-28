@@ -102,7 +102,7 @@ while contributing to collaborative projects!
 <br/>
  
 # 👾 Contact Me
-<!-- <p>Thanks for stopping by! Give me a call or send me an email</p> -->
+<p>Thanks for stopping by! Give me a call or send me an email</p>
 
 <h4>📫 &nbspEmail : johnny22375@gmail.com</h4> 
 <h4> 📞 &nbspPhone : 0981093375</h4>
