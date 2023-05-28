@@ -4,11 +4,11 @@
 </div>
 
 # 🕹️ About Me
-<h3>
+<h4>
 Hey there 👋 My name is Johnny and I'm a frontend developer with a passion to create clean and maintainable code.
 I am eager to learn from experienced team members and expand my skills and knowledge in web development
 while contributing to collaborative projects！
-</h3>
+</h4>
 
 <br/>
 
