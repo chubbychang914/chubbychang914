@@ -78,7 +78,7 @@ while contributing to collaborative projects!
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
 
-<h3>Junior Frontend Developer</h3>
+<h3>Frontend Developer</h3>
 <p>泰爾科技 (2023/03 ~ now)</p>
 <!-- <ul>
  <li>implemented new features into backstage using Vue Options API</li>
