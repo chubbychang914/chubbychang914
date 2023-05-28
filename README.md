@@ -7,7 +7,7 @@
 <p>
 Hey there 👋 My name is Johnny and I'm a frontend developer with a passion to create clean and maintainable code.
 I am eager to learn from experienced team members and expand my skills and knowledge in web development
-while contributing to collaborative projects. 
+while contributing to collaborative projects ✨
 </p>
 
 ## 🕹️ Experience
