@@ -3,7 +3,7 @@
   <p align="center"> <img src="https://github.com/chubbychang914/chubbychang914/blob/main/image/pacman.gif?raw=true" width="100%"/></p>
 </div>
 
-## 🕹️ About me
+# 🕹️ About me
 <p>
 Hey there 👋 My name is Johnny and I'm a frontend developer with a passion to create clean and maintainable code.
 I am eager to learn from experienced team members and expand my skills and knowledge in web development
