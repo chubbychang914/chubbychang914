@@ -81,9 +81,9 @@ while contributing to collaborative projects!
 <h3>Frontend Developer</h3>
 <p>泰爾科技 (2023/03 ~ now)</p>
 <ul>
- <li>modified layout of official website based on PRD</li>
  <li>utilized Vue Options API to create frontend interfaces</li>
  <li>utilized Github branches for version control</li>
+ <li>modified layout of official website based on PRD</li>
  <li>setup Line login feature</li>
  <li>successfully completed the intern training program</li>
   
