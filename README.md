@@ -20,7 +20,7 @@ while contributing to collaborative projects！
   </tr>
   <tr>
    <td align="center">
-    <br/>
+<!--     <br/> -->
     <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
           title="vue" alt="vue" width="40" height="40" />&nbsp;
@@ -33,10 +33,10 @@ while contributing to collaborative projects！
      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
           title="jquery" alt="jquery" width="40" height="40" />&nbsp;
      </div>
-     <br/>
+<!--      <br/> -->
    </td>
    <td align="center">
-    <br/>
+<!--     <br/> -->
     <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
           title="php" alt="php" width="40" height="40" />&nbsp;
@@ -49,10 +49,10 @@ while contributing to collaborative projects！
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
           title="Git" **alt="Git" width="40" height="40" />
    </div>
-    <br/>
+<!--     <br/> -->
   </td>
   <td align="center">
-    <br/>
+<!--     <br/> -->
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             title="HTML5" alt="HTML" width="40" height="40" />&nbsp;       
@@ -65,7 +65,7 @@ while contributing to collaborative projects！
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
             title="Figma" alt="Figma" width="40" height="40" />&nbsp;
     </div>
-    <br/>
+<!--     <br/> -->
    </td>
  </tr>
 </table>
