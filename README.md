@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">🕹️ Welcome to my Github 🕹️</h1>
+  <h1 align="center">✨ Welcome to my Github ✨</h1>
   <p align="center"> <img src="https://github.com/chubbychang914/chubbychang914/blob/main/image/pacman.gif?raw=true" width="100%"/></p>
 </div>
 
