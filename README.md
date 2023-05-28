@@ -10,33 +10,6 @@ I am eager to learn from experienced team members and expand my skills and knowl
 while contributing to collaborative projects！
 </p>
 
-## 🕹️ Experience
-
-<!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
-
-<h3>Junior Frontend Developer</h3>
-<p>泰爾科技 (2023/03 ~ now)</p>
-<!-- <ul>
- <li>implemented new features into backstage using Vue Options API</li>
- <li>Line login</li> 
- <li>fixed styles of webpage</li>
- <li>built reusable and modular components</li>
- <li>used pug and SCSS for cleaner coding style</li>
- <li>實習完成東東</li>
- <li>completed Intern training of company</li>
-</ul> -->
-
-<!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
-<h3>Fullstack Developer Bootcamp</h3>
-<p>資展國際 (2022/09 ~ 2023/03)</p>
-<ul>
-<!--  <li>implemented new features into backstage using Vue Options API</li>
- <li>Line login</li> 
- <li>fixed styles of webpage</li>
- <li>built reusable and modular components</li>
- <li>used pug and SCSS for cleaner coding style</li> -->
-</ul>
- 
 ## 🕹️ Language and tools
 
  <table align="center">
@@ -96,6 +69,33 @@ while contributing to collaborative projects！
    </td>
  </tr>
 </table>
+
+## 🕹️ Experience
+
+<!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
+
+<h3>Junior Frontend Developer</h3>
+<p>泰爾科技 (2023/03 ~ now)</p>
+<!-- <ul>
+ <li>implemented new features into backstage using Vue Options API</li>
+ <li>Line login</li> 
+ <li>fixed styles of webpage</li>
+ <li>built reusable and modular components</li>
+ <li>used pug and SCSS for cleaner coding style</li>
+ <li>實習完成東東</li>
+ <li>completed Intern training of company</li>
+</ul> -->
+
+<!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
+<h3>Fullstack Developer Bootcamp</h3>
+<p>資展國際 (2022/09 ~ 2023/03)</p>
+<ul>
+<!--  <li>implemented new features into backstage using Vue Options API</li>
+ <li>Line login</li> 
+ <li>fixed styles of webpage</li>
+ <li>built reusable and modular components</li>
+ <li>used pug and SCSS for cleaner coding style</li> -->
+</ul>
  
 ## 🕹️ Contact Me
 <!-- <p>Thanks for stopping by! Give me a call or send me an email</p> -->
