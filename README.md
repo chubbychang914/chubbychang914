@@ -88,16 +88,13 @@ while contributing to collaborative projects!
  <li>Modified layout of official website</li>
  <li>Implemented Line login feature</li>
  <li>Successfully completed intern training program</li>
-  
-<!--  <li>implemented new features into backstage using Vue Options API</li> -->
-<!--  <li>built reusable and modular components</li> -->
 </ul>
 
 <h3>Fullstack Developer Bootcamp</h3>
 <p>資展國際 (2022/09 ~ 2023/03)</p>
 <ul>
   <li>Setup a website using React as the frontend and Laravel as the backend </li>
-  <li>Created the login and member interface of said website</li>
+  <li>Created login and member interface of website</li>
   <li>Implemented Google and Facebook login using Firebase</li>
 </ul>
  
@@ -108,6 +105,5 @@ while contributing to collaborative projects!
 
 <h4>📫 &nbspEmail : johnny22375@gmail.com</h4> 
 <h4> 📞 &nbspPhone : 0981093375</h4>
-<!-- <h4> 📒 &nbspNotion : https://www.notion.so/b1cebb401b6f45e5af3e6b80fa072914?v=d2280bc956c34d7fbb23570b00cb043a&pvs=4 <h4> -->
 
 
