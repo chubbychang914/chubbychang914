@@ -80,7 +80,7 @@ while contributing to collaborative projects!
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
 
 
-<h3>Frontend Developer</h3>
+<h2>Frontend Developer</h2>
 <p>泰爾科技 (2023/03 ~ now)</p>
 <ul>
  <li>Utilized Vue Options API to create frontend interfaces</li>
@@ -90,7 +90,7 @@ while contributing to collaborative projects!
  <li>Successfully completed intern training program</li>
 </ul>
 
-<h3>Fullstack Developer Bootcamp</h3>
+<h2>Fullstack Developer Bootcamp</h2>
 <p>資展國際 (2022/09 ~ 2023/03)</p>
 <ul>
   <li>Setup a website using React as the frontend and Laravel as the backend </li>
