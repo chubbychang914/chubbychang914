@@ -96,7 +96,9 @@ while contributing to collaborative projects!
 <h3>Fullstack Developer Bootcamp</h3>
 <p>資展國際 (2022/09 ~ 2023/03)</p>
 <ul>
-  <li>Setup a </li>
+  <li>Setup a website : Select Go </li>
+  <li>Created the login and member interface of said website</li>
+  <li>Implemented Google and Facebook login using Firebase</li>
 </ul>
  
 <br/>
