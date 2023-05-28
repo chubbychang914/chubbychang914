@@ -9,6 +9,7 @@ Hey there 👋 My name is Johnny and I'm a frontend developer with a passion to 
 I am eager to learn from experienced team members and expand my skills and knowledge in web development
 while contributing to collaborative projects！
 </p>
+
 <br/>
 
 ## 🕹️ Language and tools
@@ -71,6 +72,8 @@ while contributing to collaborative projects！
  </tr>
 </table>
 
+<br/>
+
 ## 🕹️ Experience
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
@@ -97,6 +100,8 @@ while contributing to collaborative projects！
  <li>built reusable and modular components</li>
  <li>used pug and SCSS for cleaner coding style</li> -->
 </ul>
+ 
+<br/>
  
 ## 🕹️ Contact Me
 <!-- <p>Thanks for stopping by! Give me a call or send me an email</p> -->
