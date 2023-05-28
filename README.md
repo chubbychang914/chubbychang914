@@ -80,15 +80,16 @@ while contributing to collaborative projects!
 
 <h3>Frontend Developer</h3>
 <p>泰爾科技 (2023/03 ~ now)</p>
-<!-- <ul>
- <li>implemented new features into backstage using Vue Options API</li>
- <li>Line login</li> 
- <li>fixed styles of webpage</li>
- <li>built reusable and modular components</li>
- <li>used pug and SCSS for cleaner coding style</li>
- <li>實習完成東東</li>
- <li>completed Intern training of company</li>
-</ul> -->
+<ul>
+ <li>modified layout of official website based on PRD</li>
+ <li>utilized Vue Options API to create frontend interfaces</li>
+ <li>utilized Github branches for version control</li>
+ <li>setup Line login feature</li>
+ <li>successfully completed the intern training program</li>
+  
+<!--  <li>implemented new features into backstage using Vue Options API</li> -->
+<!--  <li>built reusable and modular components</li> -->
+</ul>
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
 <h3>Fullstack Developer Bootcamp</h3>
