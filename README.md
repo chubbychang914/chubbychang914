@@ -1,3 +1,16 @@
+
+ _    _      _                          
+| |  | |    | |                         
+| |  | | ___| | ___ ___  _ __ ___   ___ 
+| |/\| |/ _ \ |/ __/ _ \| '_ ` _ \ / _ \
+\  /\  /  __/ | (_| (_) | | | | | |  __/
+ \/  \/ \___|_|\___\___/|_| |_| |_|\___|
+                                        
+                                        
+
+
+
+
 <div align="center">
   <h1 align="center">Welcome to my awesome github page</h1>
   <p align="center"> <img src="https://github.com/chubbychang914/chubbychang914/blob/main/image/pacman.gif?raw=true" width="100%"/></p>
