@@ -12,11 +12,11 @@ while contributing to collaborative projects!
 
 </br>
 
-<p>🗒️ Currently Learning</p>
+<!-- <p>🗒️ Currently Learning</p>
 <ul>
   <li>Vue Composition API</li>
   <li>TypeScript</li>
-</ul>
+</ul> -->
 
 <br/>
 
