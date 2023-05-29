@@ -10,6 +10,12 @@ I'm eager to learn from experienced team members and expand my skills and knowle
 while contributing to collaborative projects!
 </h4>
 
+<h3>🗒️ Currently Learning<h3>
+<ul>
+  <li>Vue Composition API</li>
+  <li>TypeScript</li>
+</ul>
+
 <br/>
 
 # 👾 Language and Tools
