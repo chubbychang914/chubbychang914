@@ -10,7 +10,7 @@ I'm eager to learn from experienced team members and expand my skills and knowle
 while contributing to collaborative projects!
 </h4>
 
-</br>
+<!-- </br> -->
 
 <!-- <p>🗒️ Currently Learning</p>
 <ul>
