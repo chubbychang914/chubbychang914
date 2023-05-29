@@ -94,7 +94,7 @@ while contributing to collaborative projects!
  <li>Utilized Vue Options API to create frontend interfaces</li>
  <li>Utilized Github branches for version control</li>
  <li>Modified layout of official website</li>
- <li>Implemented Line login feature</li>
+ <li>Collaborated with team members to implement a Line login system</li>
  <li>Successfully completed intern training program</li>
 </ul>
 
