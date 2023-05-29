@@ -101,7 +101,7 @@ while contributing to collaborative projects!
 <h2>Fullstack Developer Bootcamp</h2>
 <p>資展國際 (2022/09 ~ 2023/02)</p>
 <ul>
-  <li>Setup a website using React and Laravel</li>
+  <li>Worked with team members to setup a website using React and Laravel</li>
   <li>Created login and member interface of website</li>
   <li>Implemented Google and Facebook login using Firebase</li>
 </ul>
