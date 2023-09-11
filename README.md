@@ -86,10 +86,11 @@ while contributing to collaborative projects!
 
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/tyr-logo.png?raw=true" width="50"> -->
 <!-- <img align="left" src="https://github.com/chubbychang914/chubbychang914/blob/main/image/ispan-logo.gif?raw=true" width="50"> -->
-
+<h2>Frontend Developer</h2>
+<p>今網智生活 (2023/08 ~ now)</p>
 
 <h2>Frontend Developer</h2>
-<p>泰爾科技 (2023/03 ~ now)</p>
+<p>泰爾科技 (2023/03 ~ 2023/06)</p>
 <ul>
  <li>Utilized Vue Options API to create frontend interfaces</li>
  <li>Utilized Github branches for version control</li>
